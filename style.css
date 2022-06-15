@@ -1,0 +1,68 @@
+body {
+  font-family: Helvetica;
+background-image: ;
+  margin: 3%;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+p,
+ol {
+  font-size: 20px;
+  text-align: justify;
+}
+
+p,
+h1,
+h2,
+h3 {
+  text-indent: 40px;
+}
+
+figcaption {
+  font-style: oblique;
+}
+
+figure {
+  float: right;
+}
+
+img {
+  width: 400px;
+}
+
+#Allen {
+  float: left;
+}
+
+table {
+  margin: auto;
+  float: unset;
+  border: 1px solid black;
+  width: 50%;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid black;
+}
+caption {
+  font-style: oblique;
+  caption-side: bottom;
+}
+header {
+    min-height: 350px;
+ }
+ 
